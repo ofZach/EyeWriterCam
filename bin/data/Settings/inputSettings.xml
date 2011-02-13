@@ -1,0 +1,20 @@
+<app>
+	
+	<!-- mode, input 0 = live, 1 = video  -->
+
+	<mode>0</mode>
+
+	<videoGrabber>
+        <!-- use ofVideoGrabber = 0, use ofxLibdc = 1 -->
+        <grabberType>0</grabberType>
+
+		<!-- set device id if you need to work with a different camera -->
+
+		<deviceId></deviceId>
+
+		<width>640</width>
+		<height>480</height>
+	</videoGrabber>
+
+</app>
+

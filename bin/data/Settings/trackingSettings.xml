@@ -1,0 +1,4 @@
+<!-- ASM model filename  -->
+<model_path>asm/grayall_asm.model</model_path>
+<!-- Haar cascade filename -->
+<cascade_path>asm/haarcascade_frontalface_default.xml</cascade_path>
